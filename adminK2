@@ -1,0 +1,298 @@
+
+
+{
+    "_id" : ObjectId("5d1495e98e58e7509b2c3602"),
+    "_referenceId" : ObjectId("58dcab5f1a129553c25ed01e"),
+    "userId" : "k2",
+    "secondaryId" : "",
+    "firstName" : "K Two",
+    "middleName" : "",
+    "lastName" : "",
+    "fullName" : "K Two  ",
+    "gender" : "male",
+    "mobile" : "8056617777",
+    "secondaryMobile" : "",
+    "email" : "vinayak.1bansal@mtap.in",
+    "_teamId" : "5d1493f98e58e7509b2c3444",
+    "status" : "active",
+    "employmentType" : "permanent",
+    "rfid" : "k22",
+    "costCenter" : "sdffewwcwe",
+    "_officeId" : "58353f5338f2394ee83e707a",
+    "_siteId" : "582addd438f2394ee83e7010",
+    "_supervisorId" : "58dcaa971a129553c25ed01c",
+    "_pickupStoppageId" : "583bf18b38f2394ee83e70ad",
+    "_dropStoppageId" : "583bf18b38f2394ee83e70ad",
+    "home" : {
+        "pickupHome" : {
+            "name" : "SILK BOARD",
+            "address" : "Embassy Tech Square Main Rd, Kaverappa Layout, Kadubeesanahalli,Embassy Tech Square Main Rd, Kaverappa Layout, Kadubeesanahalli, Bengaluru, Karnataka 560103 Bengaluru, Karnataka 560103",
+            "coordinates" : [ 
+                77.63030052, 
+                12.93024664
+            ],
+            "office" : false
+        },
+        "dropHome" : {
+            "name" : "SILK BOARD",
+            "address" : "Embassy Tech Square Main Rd, Kaverappa Layout, Kadubeesanahalli, Bengaluru, Embassy Tech Square Main Rd, Kaverappa Layout, Kadubeesanahalli, Bengaluru, Karnataka 560103Karnataka 560103",
+            "coordinates" : [ 
+                77.63030052, 
+                12.93024664
+            ],
+            "office" : false
+        }
+    },
+    "poc" : true,
+    "supervisor" : false,
+    "selfEditing" : true,
+    "transportUser" : true,
+    "privileged" : false,
+    "effectiveFrom" : NumberLong(1561573800000),
+    "versionDiff" : [ 
+        "team"
+    ],
+    "updateFor" : [ 
+        "team"
+    ],
+    "_departmentId" : "5a44ca731da33d7b2a671205",
+    "role" : "superAdmin",
+    "zone" : "",
+    "_approverId" : "",
+    "selfRoster" : true,
+    "emergencyContacts" : [ 
+        {
+            "firstName" : "test",
+            "fullName" : "test",
+            "mobile" : "9898989898",
+            "email" : "test@test.com",
+            "relationship" : "brother"
+        }
+    ],
+    "busPassNumber" : "k2_9258",
+    "editLogs" : [ 
+        {
+            "_updatedBy" : "58dcab5f1a129553c25ed01e",
+            "updatedByName" : "K%20Two%20%20",
+            "updatedTime" : NumberLong(1514463280458),
+            "updates" : [ 
+                {
+                    "fieldUpdated" : "secondaryMobile",
+                    "updatedValue" : ""
+                }, 
+                {
+                    "fieldUpdated" : "email",
+                    "updatedValue" : "balamurugan.samspath1@mtap.in",
+                    "oldValue" : "balamurugan.sampath1@mtap.in"
+                }, 
+                {
+                    "fieldUpdated" : "costCenter",
+                    "updatedValue" : "sdffewwcwe",
+                    "oldValue" : ""
+                }, 
+                {
+                    "fieldUpdated" : "_supervisorId",
+                    "updatedValue" : "58dcaa971a129553c25ed01a",
+                    "oldValue" : "58dcaa971a129553c25ed01c"
+                }, 
+                {
+                    "fieldUpdated" : "_billingZoneId",
+                    "updatedValue" : ""
+                }, 
+                {
+                    "fieldUpdated" : "selfEditing",
+                    "updatedValue" : false
+                }, 
+                {
+                    "fieldUpdated" : "_departmentId",
+                    "updatedValue" : "5a44ca731da33d7b2a671205"
+                }
+            ]
+        }, 
+        {
+            "_updatedBy" : "58dcab5f1a129553c25ed01e",
+            "updatedByName" : "K%20Two%20%20",
+            "updatedTime" : NumberLong(1519110779433),
+            "updates" : [ 
+                {
+                    "fieldUpdated" : "selfEditing",
+                    "updatedValue" : true,
+                    "oldValue" : false
+                }, 
+                {
+                    "fieldUpdated" : "_approverId",
+                    "updatedValue" : ""
+                }, 
+                {
+                    "fieldUpdated" : "selfRoster",
+                    "updatedValue" : false
+                }
+            ]
+        }, 
+        {
+            "_updatedBy" : "58dcab5f1a129553c25ed01e",
+            "updatedByName" : "K%20Two%20%20",
+            "updatedTime" : NumberLong(1519110856869),
+            "updates" : [ 
+                {
+                    "fieldUpdated" : "selfRoster",
+                    "updatedValue" : true,
+                    "oldValue" : false
+                }
+            ]
+        }, 
+        {
+            "_updatedBy" : "58dcab5f1a129553c25ed01e",
+            "updatedByName" : "K%20Two%20%20",
+            "updatedTime" : NumberLong(1519111062064),
+            "updates" : [ 
+                {
+                    "fieldUpdated" : "supervisor",
+                    "updatedValue" : false,
+                    "oldValue" : true
+                }, 
+                {
+                    "fieldUpdated" : "poc",
+                    "updatedValue" : false,
+                    "oldValue" : true
+                }
+            ]
+        }, 
+        {
+            "_updatedBy" : "58dcab5f1a129553c25ed01e",
+            "updatedByName" : "K%20Two%20%20",
+            "updatedTime" : NumberLong(1519883602625),
+            "updates" : [ 
+                {
+                    "fieldUpdated" : "email",
+                    "updatedValue" : "keerti.savakar@mtap.in",
+                    "oldValue" : "balamurugan.samspath1@mtap.in"
+                }
+            ]
+        }, 
+        {
+            "_updatedBy" : "58dcab5f1a129553c25ed01e",
+            "updatedByName" : "K%20Two%20%20",
+            "updatedTime" : NumberLong(1519883715691),
+            "updates" : [ 
+                {
+                    "fieldUpdated" : "_supervisorId",
+                    "updatedValue" : "58dcaa971a129553c25ed01c",
+                    "oldValue" : "58dcaa971a129553c25ed01a"
+                }
+            ]
+        }, 
+        {
+            "_updatedBy" : "58dcab5f1a129553c25ed01e",
+            "updatedByName" : "K Two  ",
+            "updatedTime" : NumberLong(1548067446743),
+            "updates" : [ 
+                {
+                    "fieldUpdated" : "_billingZoneId",
+                    "updatedValue" : "599be46228e1cee4bea5d831",
+                    "oldValue" : ""
+                }, 
+                {
+                    "fieldUpdated" : "joiningDate"
+                }, 
+                {
+                    "fieldUpdated" : "emergencyContacts",
+                    "updatedValue" : [ 
+                        {
+                            "firstName" : "test",
+                            "fullName" : "test",
+                            "email" : "test@test.com",
+                            "mobile" : "9898989898",
+                            "relationship" : "brother"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "_updatedBy" : "58dcab5f1a129553c25ed01e",
+            "updatedByName" : "K Two  ",
+            "updatedTime" : NumberLong(1548067496262),
+            "updates" : [ 
+                {
+                    "fieldUpdated" : "status",
+                    "updatedValue" : "inactive",
+                    "oldValue" : "active"
+                }
+            ]
+        }, 
+        {
+            "_updatedBy" : "58dcab5f1a129553c25ed01e",
+            "updatedByName" : "K Two  ",
+            "updatedTime" : NumberLong(1548067522997),
+            "updates" : [ 
+                {
+                    "fieldUpdated" : "status",
+                    "updatedValue" : "active",
+                    "oldValue" : "inactive"
+                }
+            ]
+        }, 
+        {
+            "_updatedBy" : "58dcab5f1a129553c25ed01e",
+            "updatedByName" : "K Two  ",
+            "updatedTime" : NumberLong(1548067626197),
+            "updates" : [ 
+                {
+                    "fieldUpdated" : "status",
+                    "updatedValue" : "inactive",
+                    "oldValue" : "active"
+                }
+            ]
+        }, 
+        {
+            "_updatedBy" : "5b3e1cfd1da33d7b2a6a0a45",
+            "updatedByName" : "mark  hamil",
+            "updatedTime" : NumberLong(1548074784497),
+            "updates" : [ 
+                {
+                    "fieldUpdated" : "status",
+                    "updatedValue" : "active",
+                    "oldValue" : "inactive"
+                }
+            ]
+        }, 
+        {
+            "_updatedBy" : "5b3e1cfd1da33d7b2a6a0a45",
+            "updatedByName" : "mark  hamil",
+            "updatedTime" : NumberLong(1549609788542),
+            "updates" : [ 
+                {
+                    "fieldUpdated" : "secondaryId",
+                    "updatedValue" : ""
+                }, 
+                {
+                    "fieldUpdated" : "_billingZoneId",
+                    "oldValue" : "599be46228e1cee4bea5d831"
+                }, 
+                {
+                    "fieldUpdated" : "_pickupBillingZoneId"
+                }, 
+                {
+                    "fieldUpdated" : "_dropBillingZoneId"
+                }
+            ]
+        }, 
+        {
+            "_updatedBy" : "58dcab5f1a129553c25ed01e",
+            "updatedByName" : "K Two",
+            "updatedTime" : NumberLong(1561630184990),
+            "updates" : [ 
+                {
+                    "fieldUpdated" : "_teamId",
+                    "updatedValue" : "5d1493f98e58e7509b2c3444",
+                    "oldValue" : "58bd1075a99b02ee198c4a95",
+                    "operation" : "modify",
+                    "effectiveFrom" : NumberLong(1561573800000)
+                }
+            ],
+            "mode" : "ui"
+        }
+    ],
+    "lastModified" : NumberLong(1561630185015)
+}
